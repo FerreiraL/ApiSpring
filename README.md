@@ -3,10 +3,8 @@
 
 <h1 align="center" style="font-weight: bold;">Project API Spring Boot 💻</h1>
 
-<p align="center">
-<b>![spring][SPRING_BADGE]
-![java][JAVA_BADGE]<b>
-</p>
+![spring][SPRING_BADGE]
+![java][JAVA_BADGE]
 
 <p align="center">
   <b>Simples projeto para mostrar requisiçoes com o navegador e conexão com banco de dados MySQL.</b>
