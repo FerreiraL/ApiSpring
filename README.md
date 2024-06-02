@@ -4,8 +4,8 @@
 <h1 align="center" style="font-weight: bold;">Project API Spring Boot 💻</h1>
 
 <p align="center">
-![spring][SPRING_BADGE]
-![java][JAVA_BADGE]
+<b>![spring][SPRING_BADGE]
+![java][JAVA_BADGE]<b>
 </p>
 
 <p align="center">
